@@ -1,7 +1,11 @@
 SMACH Tutorial
 ==============
+This is a ROS tutorial package for [SMACH](http://wiki.ros.org/smach), a task-level architecture for rapidly creating complex robot behavior.
+### Preparation:
+
 ```bash
-sudo apt-get install ros-kinetic-smach-viewer
+sudo apt-get install ros-kinetic-executive-smach
+sudo apt-get install ros-kinetic-executive-smach-visualization
 ```
 
 ### My Environment
